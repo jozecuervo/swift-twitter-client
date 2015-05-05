@@ -1,20 +1,15 @@
 //
 //  ViewController.swift
 //  swift-twitter-client
-//
-//  Created by Jose Hernandez on 5/3/15.
-//
-//
 
 import UIKit
 
 
-class ViewController: UIViewController {
+class MainViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-//        TwitterClient(baseURL:baseURL, consumerKey:consumerKey,consumerSecret:consumerSecret)
     }
 
     override func didReceiveMemoryWarning() {
